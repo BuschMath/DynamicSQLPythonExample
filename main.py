@@ -17,7 +17,7 @@ class Database:
         self.conn.close()
 
 # Example usage
-db = Database('localhost', 'mydatabase')
+db = Database('MSI\SQLEXPRESS', 'mydatabase')
 
 # Example user input
 username = "Alice"
