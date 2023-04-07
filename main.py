@@ -1,3 +1,6 @@
+# Note: Only difference between dynamic and embedded is that queries are 
+# hard coded in embedded and variables allow changes in dynamic.
+
 import pyodbc
 
 class Database:
